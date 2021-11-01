@@ -1,4 +1,4 @@
-![banner](https://github.com/csetarun/csetarun/blob/master/0.jpeg)
+<!-- ![banner](https://github.com/csetarun/csetarun/blob/master/0.jpeg) -->
 
 <h1 align="center">Hey I'm Tarun Kumar <img src="https://raw.githubusercontent.com/csetarun/csetarun/master/wave.gif" width="30px"></h1> 
 
