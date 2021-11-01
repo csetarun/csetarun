@@ -11,7 +11,7 @@
 
 ## 🚀 About Me 
 
-🎓 I am Tarun Kumar Babu Muddam, completed my bachelor's degree majoring in computer science from [Rajiv Gandhi University of Knowledge Technologies](https://rguktn.ac.in/). 
+🎓 I am Tarun Kumar, completed my bachelor's degree majoring in computer science from [Rajiv Gandhi University of Knowledge Technologies](https://rguktn.ac.in/). 
 Software Engineer with strong knowledge in Computer Science Fundamentals, Algorithms, Data Structures, and Object-­Oriented Principles. Interested in problem-­solving and building highly scalable and available systems.
 
 Specialized in full-stack development, Python, Angular, JavaScript, Git, Rest API, and cloud services. Take a look at my work or get in touch!
